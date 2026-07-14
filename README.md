@@ -1,7 +1,7 @@
-### Anali Salvador
+### Hola, soy Anali 👋
 
-Estudiante de Diseño y Desarrollo de Software, enfocada en desarrollo backend y full stack.
-Este espacio reúne los proyectos que desarrollo para aplicar y fortalecer lo que aprendo.
+🎓Estudiante de Diseño y Desarrollo de Software, 💻enfocada en desarrollo backend y full stack.
+Este espacio reúne los proyectos que desarrollo para aplicar y fortalecer lo que aprendo🚀.
 
 ---
 
