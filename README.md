@@ -1,6 +1,6 @@
 ### Hola, soy Anali 👋
 
-🎓 Estudiante de **Diseño y Desarrollo de Software** en Tecsup
+🎓 Estudiante de **Diseño y Desarrollo de Software**
 💻 Formándome como **Backend & Full Stack Developer**
 🚀 Aprendiendo a construir proyectos reales para aplicar lo que estudio
 
@@ -21,9 +21,3 @@
 ### 📌 Proyectos destacados
 
 _Próximamente..._
-
----
-
-### 📊 Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=analisalvador-dev&show_icons=true&theme=radical)
